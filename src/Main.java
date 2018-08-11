@@ -10,6 +10,7 @@ public class Main {
         System.out.println("Automovil " + automovil + " Automovil 1 " + automovil1 + " Automovil 2 " + automovil2);
         System.out.println("Automovil " + automovil.hashCode());
         System.out.println("Automovil 1" + automovil1.hashCode());
+        System.out.println("Probando cambios");
 
     }
 }
